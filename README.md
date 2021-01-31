@@ -2,7 +2,7 @@
 31 January 2021
 
 ### Project Title
-Bikeshare  code refactoring
+Python project code refactoring
 
 ### Description
 refactoring previous Bikeshare code
