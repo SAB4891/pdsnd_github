@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+31 January 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare project python code refactoring
 
 ### Description
-Describe what your project is about and what it does
+refactoring previous Bikeshare code
 
 ### Files used
-Include the files used
+Bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github 
