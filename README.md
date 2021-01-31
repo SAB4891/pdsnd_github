@@ -2,7 +2,7 @@
 31 January 2021
 
 ### Project Title
-Bikeshare project python code refactoring
+Bikeshare  code refactoring
 
 ### Description
 refactoring previous Bikeshare code
@@ -11,4 +11,4 @@ refactoring previous Bikeshare code
 Bikeshare.py
 
 ### Credits
-https://github.com/udacity/pdsnd_github 
+https://github.com/udacity/pdsnd_github
